@@ -119,6 +119,8 @@ Created 10 visualizations:
 
 ## Power BI Dashboard
 
+![StreamFlix Engagement Overview](images/dashboard_overview.png)
+
 A five-page interactive Power BI dashboard was developed.
 
 ### Dashboard Pages
