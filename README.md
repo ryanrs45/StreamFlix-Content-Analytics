@@ -119,9 +119,29 @@ Created 10 visualizations:
 
 ## Power BI Dashboard
 
-![StreamFlix Engagement Overview](images/dashboard_overview.png)
+## Power BI Dashboard
 
-A five-page interactive Power BI dashboard was developed.
+A five-page interactive Power BI dashboard was developed to analyse engagement, content performance, subscribers, customer experience, and catalogue investment.
+
+### 1. Engagement Overview
+
+![Engagement Overview](images/dashboard_overview.png)
+
+### 2. Content Performance
+
+![Content Performance](images/02_content_performance.png)
+
+### 3. Subscriber Insights
+
+![Subscriber Insights](images/03_subscriber_insights.png)
+
+### 4. Experience
+
+![Experience](images/04_experience.png)
+
+### 5. Catalogue & Investment
+
+![Catalogue & Investment](images/05_catalogue_investment.png)
 
 ### Dashboard Pages
 
